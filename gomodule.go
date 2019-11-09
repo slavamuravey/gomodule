@@ -2,7 +2,7 @@ package gomodule
 
 import "fmt"
 
-func Print()  {
+func Print() {
 	fmt.Println("I am gomodule")
 }
 
