@@ -1,3 +1,3 @@
-module github.com/slavamuravey/gomod
+module github.com/slavamuravey/gomodule
 
 go 1.12
